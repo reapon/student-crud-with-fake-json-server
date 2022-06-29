@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Saim Ahmed",
+      "email": "saim@gmail.com",
+      "phone": 46546546565,
+      "address": "DHK"
+    },
+    {
+      "id": 3,
+      "name": "Ashraful Islam",
+      "email": "ashraf@gmail.com",
+      "phone": 654654654,
+      "address": "CTG"
+    }
+  ]
+}
